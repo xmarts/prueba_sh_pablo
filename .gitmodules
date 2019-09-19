@@ -1,0 +1,3 @@
+[submodule "mods12"]
+	path = mods12
+	url = git@github.com:pabloosorio/mods12.git
